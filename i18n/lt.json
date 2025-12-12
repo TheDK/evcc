@@ -1,4 +1,8 @@
 {
+  "authProviders": {
+    "buttonDisconnect": "Atsijungti",
+    "connect": "prisijungti"
+  },
   "batterySettings": {
     "batteryLevel": "Kaupiklio įkrova",
     "bufferStart": {
